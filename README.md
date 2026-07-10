@@ -36,7 +36,7 @@ The Objective was to gain hands-on experience Linux administration, Networking, 
 - SSH
 - Infrastructure Troubleshooting
 
-# Future Improvements
+## Future Improvements
 - Reverse Proxy
 - Active Directory
 - Automated Backups
