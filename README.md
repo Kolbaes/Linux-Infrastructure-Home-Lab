@@ -11,7 +11,7 @@ The Objective was to gain hands-on experience Linux administration, Networking, 
 ## Operating System
 - Ubuntu 24.04.4 LTS
 
-# Services
+## Services
 - Jellyfin - Media Streaming
 - Radarr - Movie Automation
 - Sonarr - TV show Automation
@@ -21,7 +21,7 @@ The Objective was to gain hands-on experience Linux administration, Networking, 
 - qBittorrent - Media Download Client
 - Docker - Container Platform
 
-# Goals
+## Goals
 - Learn Linux Administration
 - Learn Docker
 - Understand Monitoring
@@ -29,7 +29,7 @@ The Objective was to gain hands-on experience Linux administration, Networking, 
 - Improve Troubleshooting Skills
 - Build a Infrastructure portfolio
 
-# What I Learned
+## What I Learned
 - Linux Administration
 - Docker
 - Monitoring
